@@ -4,8 +4,7 @@
 <h2>hw0</h2>
 Counting unique words
 
-<h2>hw1</h2>
-Finding potential friends using Spark
+<h2>hw1</h2>Finding potential friends using Spark
 Find frequent itemsets using the A-Priori algorithm
 Finding similar documents using minhash-based LSH
 
