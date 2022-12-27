@@ -1,7 +1,7 @@
 # EE412
 2022 Fall 2022
 <pre>
-<h2>hw0</h2>Counting unique words
+<h2>hw0</h2>Counting unique words using Spark
 
 <h2>hw1</h2>Finding potential friends using Spark
 Find frequent itemsets using the A-Priori algorithm
@@ -11,7 +11,7 @@ Finding similar documents using minhash-based LSH
 Collaborative filtering
 Movie recommendation challenge
 
-<h2>hw3</h2>Simple Link analysis
+<h2>hw3</h2>Simple Link analysis using Spark
 Finding triangles in facebook communities
 SVM algorithm
 
