@@ -13,7 +13,7 @@ Collaborative filtering
 Movie recommendation challenge
 
 hw3
-Simple Link analysis
+Simple Link analysis\n
 Finding triangles in facebook communities
 SVM algorithm
 
